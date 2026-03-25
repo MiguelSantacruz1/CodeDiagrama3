@@ -15,7 +15,7 @@ public class Main {
         Dog dog2 = new Dog("Rocky");
 
         System.out.println(dog1);
-        dog1.greets();        // Woof
-        dog1.greets(dog2);    // Woooof
+        dog1.greets();        // Boof
+        dog1.greets(dog2);    // Booof
     }
 }

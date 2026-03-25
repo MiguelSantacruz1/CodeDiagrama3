@@ -9,7 +9,7 @@ public class Main {
 
         Cat cat = new Cat("Michi");
         System.out.println(cat);
-        cat.greets(); // Meow
+        cat.greets(); // Miau
 
         Dog dog1 = new Dog("Firulais");
         Dog dog2 = new Dog("Rocky");
